@@ -1,6 +1,6 @@
 ## Traffic Accidents Bonus Exercise
 
-For this bonus exercise, you'll be working with a subset of the full traffic accidents dataset - the accients which occurred in the year 2018. However, the data is formatted in a different way - each month is split out into a different sheet. 
+For this bonus exercise, you'll be working with a subset of the full traffic accidents dataset - the accidents which occurred in the year 2018. However, the data is formatted in a different way - each month is split out into a different sheet. 
 
 1. Start by creating a new spreadsheet called "Analysis". Move this sheet so that it is the first one in the workbook.
 2. In cell A1, enter "Month Num". Below this, generate a sequence of numbers from 1 to 12. When you do this, use Excel's ability to Auto Fill a sequence, as describe here: https://support.microsoft.com/en-us/office/fill-data-automatically-in-worksheet-cells-74e31bdd-d993-45da-aa82-35a236c5b5db 
